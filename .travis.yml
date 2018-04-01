@@ -20,4 +20,4 @@ after_success:
 notifications:
   email: # only receive email when the build status changes (someone broke the build!) 
     on_failure: dev.rapha@gmail.com
-    on_success: dev.rapha#gmail.com
+    on_success: dev.rapha@gmail.com
